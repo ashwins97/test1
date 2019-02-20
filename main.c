@@ -8,14 +8,8 @@ int main()
     int rise=0;
     int fall=0;
     int constant=0;
-    printf("enter the length of sequence \n");
-    scanf("%d",&n);
-    printf("enter the binary sequence \n");
-    for( i=0;i<n;i++)
-    {
-
-        scanf("%d",&inp[i]);
-    }
+    n=5;
+    inp[30]=10001
 
     for(i=1;i<n;i++)
     {
