@@ -9,7 +9,7 @@ int main()
     int fall=0;
     int constant=0;
     n=5;
-    inp[30]=10001;
+    inp[29]=10001;
 
     for(i=1;i<n;i++)
     {
